@@ -1,2 +1,2 @@
-# SIFT-for-handwritten-digit-detection
-Matlab: Digit recognition using Scale Invariant Feature Transform (SIFT) technique
+# SIFT_handwritten_digits_recognition
+Course project: Handwritten digits recognition based on SIFT feature extraction
